@@ -1,0 +1,1 @@
+document.getElementById("mainBody").style.margin = "20px";

@@ -1,0 +1,19 @@
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+main {
+    background-color: rgba(130, 130, 130, 0.982);
+    margin: 1em;
+}
+
+body {
+    background-image: url("./record.png");
+    background-repeat: repeat;
+    //margin: 20px;
+}
+
+
+
